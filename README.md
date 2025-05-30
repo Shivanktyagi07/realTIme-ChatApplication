@@ -23,7 +23,7 @@ _(Replace with your actual deployed URLs)_
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | **Frontend** | **Backend**            | **Deployment**              |
 | ------------ | ---------------------- | --------------------------- |
@@ -32,25 +32,11 @@ _(Replace with your actual deployed URLs)_
 
 ---
 
-## 🧭 Project Structure
-
-/chat-backend
-├── server.js
-├── package.json
-└── ...
-/chat-frontend
-├── src
-├── public
-├── package.json
-└── ...
-
----
-
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Backend (Socket.IO + Express Server)
 
-1️⃣ Clone the backend repository:
+1 Clone the backend repository:
 
 ```bash
 git clone https://github.com/your-username/your-backend-repo.git
